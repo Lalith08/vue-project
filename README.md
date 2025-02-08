@@ -1,4 +1,4 @@
-# Vue Jobs Project (YouTube)
+# Vue Jobs Project
 
 <img src="public/screen.png" />
 
